@@ -3,7 +3,8 @@ Please submit bug report suggestions and pull requests to the [Github issue trac
 
 if you want to clone my source code, type this code in you terminal: \
 \
-`git clone https://github.com/MinhThuaneiu/CSE454-2024-2025.git` \
+`git clone https://github.com/MinhThuaneiu/CSE454-2024-2025.git`
+
 
 ### History
 * It is made first when I was studying CSE 454.
